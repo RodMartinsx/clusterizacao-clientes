@@ -15,7 +15,7 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 
 ## Objetivos
 
-O objetivo do projeto é possibilitar para o supermercado ficticio compreender melhor o perfil dos clientes e dessa forma construir e aplicar estratégias de negócio de acordo. Isso será feito através de um processo de agrupamento de clientes utilizando o dataset disponibilizado.
+O objetivo do projeto é possibilitar para o supermercado fictício compreender melhor o perfil dos clientes e dessa forma construir e aplicar estratégias de acordo com o negócio. Isso será feito através de um processo de agrupamento de clientes utilizando o dataset disponibilizado.
 
 
 
