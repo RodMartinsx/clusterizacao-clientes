@@ -84,11 +84,14 @@ Transformando os pontos acima em uma tabela:
 
 # As bibliotecas utilizadas no projeto
 
-[ipympl](https://matplotlib.org/ipympl/).
-[ydata-profiling](https://github.com/ydataai/ydata-profiling), 
-[sklearn](https://scikit-learn.org/stable/)
-[pandas](https://pandas.pydata.org/docs/)
+- [ipympl](https://matplotlib.org/ipympl/)<br>
+- [ydata-profiling](https://github.com/ydataai/ydata-profiling)<br>
+- [sklearn](https://scikit-learn.org/stable/)<br>
+- [pandas](https://pandas.pydata.org/docs/)<br>
 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/rodrigo-martins-rodrigues-6a3b53234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
 
 
 
